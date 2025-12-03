@@ -1,4 +1,4 @@
-"""Ghost Supply - Tableau de Bord Français Simplifié."""
+"""Ghost Supply - Tableau de Bord ."""
 
 import sys
 from datetime import datetime
