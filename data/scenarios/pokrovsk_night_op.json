@@ -1,0 +1,10 @@
+{
+  "name": "pokrovsk_night_op",
+  "origin": [48.24, 37.18],
+  "destination": [48.33, 37.25],
+  "cargo_type": "fuel",
+  "cargo_value": 6,
+  "weather": "fog",
+  "departure_hour": 2,
+  "risk_tolerance": 0.95
+}

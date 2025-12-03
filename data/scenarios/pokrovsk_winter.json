@@ -1,0 +1,10 @@
+{
+  "name": "pokrovsk_winter",
+  "origin": [48.25, 37.15],
+  "destination": [48.32, 37.28],
+  "cargo_type": "munitions",
+  "cargo_value": 9,
+  "weather": "snow",
+  "departure_hour": 4,
+  "risk_tolerance": 0.95
+}

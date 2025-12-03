@@ -1,0 +1,10 @@
+{
+  "name": "pokrovsk_mud_season",
+  "origin": [48.23, 37.12],
+  "destination": [48.35, 37.32],
+  "cargo_type": "medical",
+  "cargo_value": 7,
+  "weather": "rasputitsa",
+  "departure_hour": 14,
+  "risk_tolerance": 0.99
+}
