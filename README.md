@@ -3,14 +3,13 @@
 **Optimiseur logistique tactique pour environnements contestés**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Prototype-orange?style=flat-square)]()
 
 ![Ghost Supply Banner](https://via.placeholder.com/1200x400/1a1a1a/00ff00?text=Ghost+Supply+2.0+-+Tactical+Route+Optimization)
 
 ---
 
-## 📋 À Propos
+## À Propos
 
 **Ghost Supply** est un projet de recherche personnel explorant l'application de la recherche opérationnelle et de l'analyse géospatiale à la logistique militaire.
 
@@ -21,7 +20,7 @@ Dans une zone de conflit active (ex: Donbass), les routes les plus rapides sont 
 
 ---
 
-## 🛠️ Architecture Technique
+## Architecture Technique
 
 Ce projet implémente une approche multicritère innovante :
 
@@ -40,7 +39,7 @@ Pour contrer l'adaptabilité de l'adversaire, le système calcule un **équilibr
 
 ---
 
-## 🚀 Démarrage Rapide
+## Démarrage Rapide
 
 ### Prérequis
 - Python 3.10+
@@ -74,7 +73,7 @@ Accédez à `http://localhost:8501` pour configurer une mission et comparer les 
 
 ---
 
-## 🔬 Structure du Projet
+## Structure du Projet
 
 Le code est organisé de manière modulaire :
 
@@ -91,7 +90,7 @@ ghost-supply/
 
 ---
 
-## 📊 Résultats et Performance
+## Résultats et Performance
 
 Sur des scénarios simulés (région de Pokrovsk), l'approche CVaR démontre :
 - **Réduction du risque de queue (95%)** : -51% par rapport au chemin le plus court.
@@ -100,7 +99,7 @@ Sur des scénarios simulés (région de Pokrovsk), l'approche CVaR démontre :
 
 ---
 
-## ⚠️ Avertissement
+## Avertissement
 
 Ce projet est réalisé à des fins **éducatives et de recherche**.
 - Les données de menace utilisées sont **synthétiques**.
@@ -109,12 +108,9 @@ Ce projet est réalisé à des fins **éducatives et de recherche**.
 
 ---
 
-## 👤 Auteur
+## Auteur
 
 **Saad LARAJ**
 *Ingénieur Passionné par l'IA et la Recherche Opérationnelle*
 
 Technologies : Python, Pyomo, NetworkX, OSMnx, Prophet, Streamlit.
-
----
-*Fait avec ❤️ et beaucoup de café.*
